@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **simple_shell**
 
-- 🌱 I’m currently learning **AI/ML C and C#**
+- 🌱 I’m currently learning **AI/ML,C and C#**
 
 - 👯 I’m looking to collaborate on **projects that build my knowledge of AI**
 
@@ -23,7 +23,7 @@
 
 - 📫 You can reach me on gmail **skarikaripresecghana@gmail.com**
 
-- ⚡ Fun fact **Ronaldo better**
+- ⚡ Fun fact **"Ronaldo better"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
