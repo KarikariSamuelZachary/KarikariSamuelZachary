@@ -32,7 +32,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://dev.to/karikarisamuel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="Dev.to" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" alt="Dev.to" width="40" height="40"/>
   </a>
 </p>
 
