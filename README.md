@@ -11,19 +11,13 @@
   
 </p>
 
-- 🔭 I’m currently working on **simple_shell**
-
-- 🌱 I’m currently learning **AI/ML,C and C#**
+- 🌱 I’m currently studying Artificial Intelligence
 
 - 👯 I’m looking to collaborate on **projects that build my knowledge of AI**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/KarikariSamuelZachary?tab=repositories](https://github.com/KarikariSamuelZachary?tab=repositories)
-
 - 💬 Ask me about **any anime or game.**
 
-- 📫 You can reach me on gmail **skarikaripresecghana@gmail.com**
-
-- ⚡ Fun fact **"Ronaldo better"**
+- 📫 You can reach me on gmail **samuelzacharykarikari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
