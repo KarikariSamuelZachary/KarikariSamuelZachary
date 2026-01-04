@@ -19,7 +19,7 @@
 
 ### 💻 Projects
 - [Smart Wearable Device](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health & environmental monitoring
-- [Health Risk Prediction System](https://github.com/karikarisamuelzachary/xai_health_risk_system) - A Health Risk and Disease Prediction System
+- [Health Risk Prediction System](https://github.com/karikarisamuelzachary/xai-health_risk_system) - Health Risk and Disease Prediction System
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
