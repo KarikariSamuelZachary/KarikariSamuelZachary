@@ -1,15 +1,17 @@
   <h1 align="left">Hi 👋, I'm Karikari Samuel</h1>
 
-</p>
 <p align="left">
-  <img alt="Coding" src="https://th.bing.com/th/id/OIP.SbuZhJ5wGV-P2SBT1B-69AAAAA?w=270&h=180&c=7&r=0&o=5&pid=1.7" width="400">    
+  <img 
+    alt="Coding" 
+    src="https://th.bing.com/th/id/OIP.SbuZhJ5wGV-P2SBT1B-69AAAAA?w=270&h=180&c=7&r=0&o=5&pid=1.7" 
+    width="600"
+  >
 </p>
+
 
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=karikarisamuelzachary&label=Profile%20views&color=0e75b6&style=flat"
-    alt="karikarisamuelzachary"
-    width="100"
   />
 </p>
 
