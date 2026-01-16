@@ -9,7 +9,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=karikarisamuelzachary&label=Profile%20views&color=0e75b6&style=flat"
     alt="karikarisamuelzachary"
-    width="250"
+    width="100"
   />
 </p>
 
