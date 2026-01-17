@@ -1,5 +1,3 @@
-  <h1 align="left">Hi 👋, I'm Karikari Samuel</h1>
-
 <p align="left">
   <img 
     alt="Coding" 
