@@ -21,6 +21,7 @@
 ### Projects
 - [Smart Wearable Device](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health & environmental monitoring
 - [Health Risk Prediction System](https://github.com/karikarisamuelzachary/xai-health-risk-system) - Health Risk and Disease Prediction System
+- [AI-Powered Chess Game Explainer](https://github.com/KarikariSamuelZachary/praxis-move-explainer) - LLM-based move-by-move insights from PGN files
 
 <h3 align="left">Reach me</h3>
 <p align="left">
@@ -47,4 +48,4 @@
 ![Samuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karikarisamuelzachary&show_icons=true&theme=radical&bg_color=000000)
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=000000)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
