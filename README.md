@@ -8,15 +8,15 @@
 
 ### About Me
 
-- 🖥️ AI Engineer/Researcher
+- AI Engineer/Researcher
 
-- 🌱 I am studying **Advanced Deep Learning, Explainable AI (XAI) and Large Language Models (LLMs)**
+- I am studying **Advanced Deep Learning, Explainable AI (XAI) and Large Language Models (LLMs)**
 
-- 🔭 Currently working on [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system)
+- Currently working on [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system)
 
-- 👨‍💻 I’m looking to collaborate on **projects that build my knowledge of AI**
+- I’m looking to collaborate on **projects that build my knowledge of AI**
 
-- ✌️ Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
+- Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
 
 ### Projects
 - [Smart Wearable Device](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health & environmental monitoring
