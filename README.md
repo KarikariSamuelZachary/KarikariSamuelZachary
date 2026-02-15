@@ -22,6 +22,7 @@
 - [Smart Wearable Device](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health & environmental monitoring
 - [Health Risk Prediction System](https://github.com/karikarisamuelzachary/xai-health-risk-system) - Health Risk and Disease Prediction System
 - [AI-Powered Chess Game Explainer](https://github.com/KarikariSamuelZachary/praxis-move-explainer) - LLM-based move-by-move insights from PGN files
+- [CNN Plant Disease Classifier](https://github.com/karikarisamuelzachary/agri-vision-ai) - Plant Risk and Disease Prediction System
 
 <h3 align="left">Reach me</h3>
 <p align="left">
