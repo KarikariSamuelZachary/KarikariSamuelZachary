@@ -10,7 +10,7 @@
 
 - AI Engineer/Researcher
 
-- I am studying **Advanced Deep Learning, Explainable AI (XAI) and Large Language Models (LLMs)**
+- I am studying **Advanced Deep Learning, Machine Learning and Generative AI**
 
 - Currently working on [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system)
 
