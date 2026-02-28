@@ -12,8 +12,6 @@
 
 - I am studying **Advanced Deep Learning, Machine Learning and Generative AI**
 
-- Currently working on [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system)
-
 - I’m looking to collaborate on **projects that build my knowledge of AI**
 
 - Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
