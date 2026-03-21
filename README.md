@@ -1,7 +1,7 @@
 <p align="left">
   <img 
     alt="Coding" 
-    src="assets/iPhone%2016%20Pro%20-%201.png" 
+    src="assets/iPhone%2016%20Pro%20Max%20-%201.jpg" 
     width="100%"
   >
 </p>
