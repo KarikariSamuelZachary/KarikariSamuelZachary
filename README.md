@@ -17,7 +17,6 @@
 - Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
 
 <h3 align="left" style="color: #fe428e;">Projects</h3>
- 
 - [asthmaguard](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health monitoring system for asthmatic patients
 - [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system) - Health Risk and Disease Prediction System
 - [praxis](https://github.com/KarikariSamuelZachary/praxis-move-explainer) - LLM-based move-by-move insights from PGN files
@@ -49,5 +48,4 @@
 ![Samuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karikarisamuelzachary&show_icons=true&theme=radical&hide_border=true)
 
 <h3 align="left" style="color: #fe428e;">Random Dev Quote</h3>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
