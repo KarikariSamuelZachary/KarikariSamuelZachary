@@ -50,4 +50,5 @@
 ![Samuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karikarisamuelzachary&show_icons=true&theme=radical&hide_border=true)
 
 <h3 align="left" style="color: #fe428e;">Random Dev Quote</h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
