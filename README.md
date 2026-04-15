@@ -26,8 +26,9 @@
 
 <h3 align="left" style="color: #fe428e;">Reach me</h3>
 
-| [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/samuel-karikari-a4b1a1351) | [![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://instagram.com/iaminspiredbro) | [![Gmail](https://cdn-icons-png.flaticon.com/512/281/281769.png)](mailto:samuelzacharykarikari@gmail.com) |
-|:---:|:---:|:---:|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-karikari-a4b1a1351)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iaminspiredbro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samuelzacharykarikari@gmail.com)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=karikarisamuelzachary&label=Profile%20views&color=0e75b6&style=flat"/>
