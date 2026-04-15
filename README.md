@@ -16,15 +16,13 @@
 
 - Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
 
-<h3 align="left" style="color: #fe428e;">Projects</h3>
+### Projects
 
-| | Project | Description |
-|---|---|---|
-| 😷 | [asthmaguard](https://github.com/karikarisamuelzachary/asthmaguardv2) | Real-time health monitoring system for asthmatic patients |
-| 🩺 | [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system) | Health Risk and Disease Prediction System |
-| ♟️ | [praxis](https://github.com/KarikariSamuelZachary/praxis-move-explainer) | LLM-based move-by-move insights from PGN files |
-| 🌿 | [agri-vision-ai](https://github.com/karikarisamuelzachary/agri-vision-ai) | Plant Risk and Disease Prediction System |
-| 🎶 | [resoul](https://github.com/karikarisamuelzachary/resoul) | Musician's corner |
+- 😷 [asthmaguard](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health monitoring system for asthmatic patients
+- 🩺 [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system) - Health Risk and Disease Prediction System
+- ♟️ [praxis](https://github.com/KarikariSamuelZachary/praxis-move-explainer) - LLM-based move-by-move insights from PGN files
+- 🌿 [agri-vision-ai](https://github.com/karikarisamuelzachary/agri-vision-ai) - Plant Risk and Disease Prediction System
+- 🎶 [resoul](https://github.com/karikarisamuelzachary/resoul) - Musician's corner
 
 <h3 align="left" style="color: #fe428e;">Reach me</h3>
 
