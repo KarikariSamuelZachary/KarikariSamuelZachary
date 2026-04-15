@@ -30,10 +30,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iaminspiredbro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samuelzacharykarikari@gmail.com)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karikarisamuelzachary&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 <h3 align="left" style="color: #fe428e;">Languages and Tools</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
