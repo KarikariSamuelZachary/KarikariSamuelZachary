@@ -16,7 +16,7 @@
 
 - Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
 
-### Projects
+### Current Projects
 
 - 😷 [asthmaguard](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health monitoring system for asthmatic patients
 - 🩺 [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system) - Health Risk and Disease Prediction System
