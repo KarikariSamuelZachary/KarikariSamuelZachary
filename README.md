@@ -14,8 +14,6 @@
 
 - I’m looking to collaborate on **projects that build my knowledge of AI**
 
-- Enthusiastic about **Artificial Intelligence, Full-stack development and Innovation** 
-
 ### Current Projects
 
 - 😷 [asthmaguard](https://github.com/karikarisamuelzachary/asthmaguardv2) - Real-time health monitoring system for asthmatic patients
