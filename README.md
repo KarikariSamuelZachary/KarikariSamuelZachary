@@ -12,7 +12,7 @@
 
 - I am studying **Advanced Deep Learning, Machine Learning and Generative AI**
 
-- I’m looking to collaborate on **projects that build my knowledge of AI**
+- Looking to collaborate on projects at the intersection of AI and Security**
 
 ### Current Projects
 
