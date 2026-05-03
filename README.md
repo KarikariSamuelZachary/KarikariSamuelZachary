@@ -20,7 +20,7 @@
 - 🩺 [xai-health-risk-system](https://github.com/karikarisamuelzachary/xai-health-risk-system) - Health Risk and Disease Prediction System
 - ♟️ [praxis](https://github.com/KarikariSamuelZachary/praxis-move-explainer) - LLM-based move-by-move insights from PGN files
 - 🌿 [agri-vision-ai](https://github.com/karikarisamuelzachary/agri-vision-ai) - Plant Risk and Disease Prediction System
-- 🎶 [resoul](https://github.com/karikarisamuelzachary/resoul) - Musician's corner
+- 🎶 [resoul](https://github.com/karikarisamuelzachary/resoul) - Musician's corner(research phase)
 
 <h3 align="left" style="color: #fe428e;">Reach me</h3>
 
