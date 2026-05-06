@@ -21,6 +21,7 @@
 - ♟️ [praxis](https://github.com/KarikariSamuelZachary/praxis-move-explainer) - LLM-based move-by-move insights from PGN files
 - 🌿 [agri-vision-ai](https://github.com/karikarisamuelzachary/agri-vision-ai) - Plant Risk and Disease Prediction System
 - 🎶 [resoul](https://github.com/karikarisamuelzachary/resoul) - Musician's corner(research phase)
+- 📚 [afrivoca](https://github.com/karikarisamuelzachary/AfriVoca) - Voice-led AI tutoring in Ghana's local languages
 
 <h3 align="left" style="color: #fe428e;">Reach me</h3>
 
