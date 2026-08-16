@@ -43,8 +43,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-![Samuel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karikarisamuelzachary&show_icons=true&theme=radical&hide_border=true)
-
 <h3 align="left" style="color: #fe428e;">Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
